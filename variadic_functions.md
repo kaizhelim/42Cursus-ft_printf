@@ -35,9 +35,9 @@ and the type argument is internally passed to the sizeof operator and the cast o
 va_end does whatever cleanup is necessary. It must be called before the program returns.
 
 ### Techniques
-While using variadic functions, we need to implement some mechanism to tell the function how many arguments there are. Below are some examples what we can do:
-(i) Pass the number of arguments (count) as the first variable 
-(ii) Require the last variable argument to be null, zero or whatever sentinel argument
+While using variadic functions, we need to implement some mechanism to tell the function how many arguments there are. Below are some examples what we can do:\
+(i) Pass the number of arguments (count) as the first variable\
+(ii) Require the last variable argument to be null, zero or whatever sentinel argument\
 (iii) Have the first argument describe what is expected (eg. the printf format string dictates what arguments should follow)
 
 ### Common Beginner Mistakes
