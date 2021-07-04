@@ -29,6 +29,8 @@ I will straight away add the new resources here if I find something useful, so t
 
 [C Variadic Functions](https://www.thegeekstuff.com/2017/05/c-variadic-functions/)
 
+[My Notes](https://github.com/kaizhelim/42Cursus-ft_printf/blob/main/variadic_functions.md)
+
 ## :four: **Enum** 
 - This is optional for the project but I will use it for my codes
 
