@@ -18,7 +18,7 @@ https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc
 - If you don't have enough time, at least watch video 1-5 & video 8
 
 (ii) If you still have more time, https://www.youtube.com/watch?v=16P51olKuzk&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=25
-- Watch videos 24-29 from the video list below to solidify your knowledge
+- Watch videos 24-29 from the video list to solidify your knowledge
 
 ## :three:  **Variadic Functions** 
 - I can't find a very good resource about this topic but variadic function is compulsory and **very very important** to this project, so you can come and ask me if you are still confused after reading up and researching.
