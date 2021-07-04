@@ -1,6 +1,8 @@
 # 42Cursus-ft_printf
 Below are the topics to read up before joining the sharing session.
 
+I will straight away add the new resources here if I find something useful ,so that I don't have to send it to everyone individually.
+
 ## :one: **malloc and free** 
 - For people who haven't reached C07 in Piscine
 - Skip if you already know:grimacing:
